@@ -17,7 +17,7 @@ A simple full stack task manager application built with Spring Boot (back-end) a
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/taskmanager.git
+git clone https://github.com/YuriRecio/taskManager.git
 cd taskmanager
 ```
 
@@ -49,7 +49,7 @@ Make sure the backend is running.
 
 #### 1. Clone o repositório
 ```bash
-git clone https://github.com/seuusuario/taskmanager.git
+git clone https://github.com/YuriRecio/taskManager.git
 cd taskmanager
 ```
 

@@ -35,3 +35,38 @@ Simply open `frontend/index.html` in your browser.
 Make sure the backend is running.
 
 ---
+
+## 🇧🇷 Português (Brasil)
+
+### Funcionalidades
+- Adicionar, listar, editar e remover tarefas
+- API REST com Spring Boot
+- Banco de dados H2 em memória
+- Front-end simples com HTML e JS
+- CORS habilitado para integração entre front e back
+
+### Como executar
+
+#### 1. Clone o repositório
+```bash
+git clone https://github.com/seuusuario/taskmanager.git
+cd taskmanager
+```
+
+#### 2. Rode o back-end com Maven
+Certifique-se de ter Java 17+ e Maven instalados.
+
+```bash
+./mvnw spring-boot:run
+```
+
+A API ficará disponível em `http://localhost:8080`
+
+#### 3. Abra o front-end
+Abra o arquivo `frontend/index.html` no navegador.
+O back-end precisa estar rodando para funcionar corretamente.
+
+---
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
